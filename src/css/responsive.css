@@ -1,0 +1,6 @@
+@media(max-width: 770px) {
+    .main .container-grid{
+        display: flex;
+        flex-direction: column;
+    }
+}
